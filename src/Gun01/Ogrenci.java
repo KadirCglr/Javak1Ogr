@@ -8,5 +8,7 @@ public class Ogrenci {
         System.out.println("task 2");
 
         System.out.println("task 3");
+
+        System.out.println("task4 ogr");
     }
 }
